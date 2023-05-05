@@ -10,7 +10,6 @@
 *   ✉️  How to reach me [ufukcelik.dev@gmail.com](mailto:ufukcelik.dev@gmail.com)
 *   🧠  I'm working C#, Python and Unity
 *   [![](https://visitcount.itsvg.in/api?id=UfukCel1k&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
-*   [![](https://visitcount.itsvg.in/api?id=UfukCel1k&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <br>
