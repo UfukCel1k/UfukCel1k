@@ -9,7 +9,7 @@
 *   🌍  I'm based in İstanbul
 *   ✉️  How to reach me [ufukcelik.dev@gmail.com](mailto:ufukcelik.dev@gmail.com)
 *   🧠  I'm working C#, Python and Unity
-*   [![](https://visitcount.itsvg.in/api?id=UfukCel1k&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
+*   [![](https://visitcount.itsvg.in/api?id=&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
 
