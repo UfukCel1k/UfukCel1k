@@ -4,8 +4,8 @@
 
 <h3 align="center">Software developer</h3>
 
-rewrwe
-## About Me👨‍💻r
+
+## About Me👨‍💻
 *   🌍  I'm based in İstanbul
 *   ✉️  How to reach me [ufukcelik.dev@gmail.com](mailto:ufukcelik.dev@gmail.com)
 *   🧠  I'm working C#, Python and other programming languages
