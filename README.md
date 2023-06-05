@@ -70,10 +70,6 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-[### 📊 Contribution Stats
-
-<img alt="Ufuk's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=UfukCel1k&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />](url)
-
 <br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
