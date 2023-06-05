@@ -72,7 +72,7 @@
 
 ### 📊 Contribution Stats
 
-
+<img alt="Ufuk's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=UfukCel1k&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 <br>
 <p align="center">
