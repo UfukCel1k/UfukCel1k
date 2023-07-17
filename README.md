@@ -6,7 +6,7 @@
 
 
 ## About Me👨‍💻
-*   🌍  I'm based in İstanbulsdasdsd
+*   🌍  I'm based in İstanbul
 *   ✉️  How to reach me [ufukcelik.dev@gmail.com](mailto:ufukcelik.dev@gmail.com)
 *   🧠  I'm working C#, Python and other programming languages
 
